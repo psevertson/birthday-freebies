@@ -53,7 +53,7 @@ export default configure((/* ctx */) => {
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      // publicPath: '/',
+      publicPath: '/birthday-freebies/',
       // analyze: true,
       // env: {},
       // rawDefine: {}
