@@ -1,9 +1,3 @@
-<template>
-  <router-view />
+<template lang="pug">
+RouterView
 </template>
-
-<script setup lang="ts">
-defineOptions({
-  name: 'App'
-});
-</script>
