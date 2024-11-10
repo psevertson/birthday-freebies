@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Caldwell's BBQ",
+		"freebie": "Free $15",
+		"requirement": "identification",
+		"valid": "birthday",
+		"notes": []
+	},
+	{
+		"name": "Joe's BBQ",
+		"freebie": "Free $14",
+		"requirement": "identification",
+		"valid": "birthday",
+		"notes": []
+	},
+	{
+		"name": "Joe's Farm Grill",
+		"freebie": "Free $14",
+		"requirement": "identification",
+		"valid": "birthday",
+		"notes": []
+	},
+	{
+		"name": "Crumbl",
+		"freebie": "Free Cookie",
+		"requirement": "app",
+		"valid": "birthday_plus_month",
+		"notes": []
+	}
+]

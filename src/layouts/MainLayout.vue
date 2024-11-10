@@ -1,5 +1,5 @@
 <template lang="pug">
-QLayout(view="hHh lpr lFf")
+QLayout.bg-grey-2(view="hHh lpr lFf")
 	QHeader(elevated)
 		QToolbar
 			QBtn(v-if="$q.screen.lt.md" flat dense round icon="sym_o_menu" ariaLabel="Menu" @click="toggleLeftDrawer")
